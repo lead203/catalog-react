@@ -1,0 +1,6 @@
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const ADD_PRODUCT = 'ADD_PRODUCT'
+export const FETCH_PRODUCT = 'FETCH_PRODUCT'
+export const REMOVE_PRODUCT = 'REMOVE_PRODUCT'
+export const EDIT_PRODUCT = 'EDIT_PRODUCT'
+export const LOGIN = 'LOGIN'
